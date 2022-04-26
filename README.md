@@ -7,7 +7,7 @@ uses some perl/python scripts from LOC-FLOW (https://github.com/Dal-mzhang/LOC-F
 
 and provide the same example data as seisloc (https://pypi.org/project/seisloc/0.0.8/)
 
-### Download dependencies
+### 1. Download dependencies
 EQTransformer: git clone https://github.com/smousavi05/EQTransformer
 
 REAL: git clone https://github.com/Dal-mzhang/REAL
@@ -16,7 +16,7 @@ Hypoinverse: https://www.usgs.gov/software/hypoinverse-earthquake-location
 
 Please compile REAL and Hypoinverse source scripts and get two executable files (hyp1.40 and REAL)
 
-### Install necessary python packages in a new environmnt
+### 2. Install necessary python packages in a new environmnt
 ```Bash
 conda create -n ERHF python=3.7
 conda activate ERHF
@@ -25,9 +25,10 @@ cd ERHF
 sh installation.sh
 ```
 
-### Edit configuration.yaml, prepare velocity model, hypoinverse command file
+### 3. Edit configuration.yaml, prepare velocity model, hypoinverse command file
 ```Bash
 python step01_run_Eqt_detection.py
 python step02_run_REAL_association.py
 python step03_run_Hypoinv_absloc.py
 ```
+
