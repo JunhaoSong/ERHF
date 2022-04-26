@@ -1,6 +1,6 @@
 #!bin/bash
 # bash plot_detected_eqs.sh
-
+mkdir ../Locations/evtloc
 cp ../REAL/catalog_allday.txt ../Locations/evtloc/
 cp ../REAL/catalogSA_allday.txt ../Locations/evtloc/
 cp ../Hypoinv/new.cat ../Locations/evtloc/
