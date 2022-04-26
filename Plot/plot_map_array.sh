@@ -1,4 +1,5 @@
 #!/bin/bash
+# bash plot_map_array.sh
 
 # study region
 lamin=29.2
