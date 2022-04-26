@@ -20,9 +20,9 @@ Please compile REAL and Hypoinverse source scripts and get two executable files 
 ```Bash
 conda create -n ERHF python=3.7
 conda activate ERHF
+conda install pyyaml obspy pandas h5py=2.10 tqdm tensorflow=1.14 gmt=6.2
 git clone https://github.com/JunhaoSong/ERHF
 cd ERHF
-sh installation.sh
 ```
 
 ### 3. Edit configuration.yaml, prepare velocity model, hypoinverse command file
