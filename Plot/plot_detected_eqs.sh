@@ -1,4 +1,5 @@
 #!bin/bash
+# bash plot_detected_eqs.sh
 
 fig_format=png
 
