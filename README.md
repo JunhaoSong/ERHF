@@ -18,7 +18,7 @@ Please compile REAL and Hypoinverse source scripts and get two executable files 
 
 ### 2. Install necessary python packages in a new environmnt
 ```Bash
-conda create -n ERHF python=3.7
+conda create -n ERHF
 conda activate ERHF
 git clone https://github.com/JunhaoSong/ERHF
 cd ERHF
