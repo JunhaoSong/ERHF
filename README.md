@@ -32,3 +32,9 @@ python step02_run_REAL_association.py
 python step03_run_Hypoinv_absloc.py
 ```
 
+
+### 4. Visulize results
+```Bash
+cd Plot
+bash plot_detected_eqs.sh
+```
