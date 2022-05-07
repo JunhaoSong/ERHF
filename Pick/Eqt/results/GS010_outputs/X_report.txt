@@ -1,0 +1,21 @@
+================== PREDICTION FROM MSEED ====================
+================== Overal Info ==============================
+date of report: 2022-04-26 17:32:26.720339
+input_model: /home/sjh2019/Documents/Packages/EQ_Detection/EQTransformer/ModelsAndSampleData/EqT_model.h5
+input_dir: ./Data
+output_dir: /home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/./Pick/Eqt/results/GS010_outputs
+================== Prediction Parameters =====================
+finished the prediction in:  0 hours and 0 minutes and 53.93 seconds 
+detected: 153 events.
+loss_types: ['binary_crossentropy', 'binary_crossentropy', 'binary_crossentropy']
+loss_weights: [0.03, 0.4, 0.58]
+================== Other Parameters ==========================
+normalization_mode: std
+overlap: 0.3
+batch_size: 100
+detection_threshold: 0.2
+P_threshold: 0.1
+S_threshold: 0.1
+number_of_plots: 10
+gpuid: None
+gpu_limit: None

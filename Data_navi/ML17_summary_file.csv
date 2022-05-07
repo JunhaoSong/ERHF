@@ -1,0 +1,10 @@
+names,starttime,endtime
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHE__20200510T093416Z__20200511T000000Z.mseed,1589103258.4,1589155200.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHE__20200511T000000Z__20200512T000000Z.mseed,1589155200.0,1589241600.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHE__20200512T000000Z__20200512T082738Z.mseed,1589241600.0,1589272058.56
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHN__20200510T093416Z__20200511T000000Z.mseed,1589103264.52,1589155200.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHN__20200511T000000Z__20200512T000000Z.mseed,1589155200.0,1589241600.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHN__20200512T000000Z__20200512T082738Z.mseed,1589241600.0,1589272058.56
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHZ__20200510T093416Z__20200511T000000Z.mseed,1589103256.49,1589155200.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHZ__20200511T000000Z__20200512T000000Z.mseed,1589155200.0,1589241600.0
+/home/sjh2019/Documents/Work_Junhao/Anninghe_Array/local_eqs_detection/workflows/LOC-FLOW/eqt-real-hypoinv/Data/ML17/ML.ML17.BHZ__20200512T000000Z__20200512T082738Z.mseed,1589241600.0,1589272058.56
